@@ -18,3 +18,4 @@ for write the route we have to call the api
 api.add_resource(PeopleResource,'/people')  #PeopleResource is a class name
 api.add_resource(PersonResource,'/people/<int:person_id>')#PersonResource is a class name
 
+https://github.com/rahuljawale30/Flask_rest_api/blob/master/kritim_Yantra/Screenshot%20(348).png
